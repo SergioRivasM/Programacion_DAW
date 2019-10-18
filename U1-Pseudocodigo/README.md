@@ -36,17 +36,6 @@ Realiza un programa que pinte un reloj de arena relleno hecho de asteriscos. El 
 
 Ejemplo:
 Por favor, introduzca la altura del reloj de arena: 7 
-*******
- *****
-  ***
-
-   *
-
-  ***
-
- *****
-
-*******
 
 
 EJERCICIO 4 (ej4.psc)
