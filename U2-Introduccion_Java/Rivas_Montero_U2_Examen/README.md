@@ -5,16 +5,17 @@ Escribe un programa que pinte por pantalla un par de calcetines, de los que se p
 El usuario debe introducir la altura. Suponemos que el usuario introduce una altura mayor o igual a 4. Observa que la talla de los calcetines y la distancia
 que hay entre ellos (dos espacios) no cambia, lo único que varía es la altura.
 
+```
 Ejemplo 1:
 Introduzca la altura de los calcetines: 6
-*****
+
 ***      ***
 ***      ***
 ***      ***
 ***      ***
 ******  ******
 ******  ******
-*****
+
 
 Ejemplo 2:
 Introduzca la altura de los calcetines: 4
@@ -24,6 +25,7 @@ Introduzca la altura de los calcetines: 4
 ***      ***
 ******  ******
 ******  ******
+```` 
 
 # Ejercicio 2:
 
