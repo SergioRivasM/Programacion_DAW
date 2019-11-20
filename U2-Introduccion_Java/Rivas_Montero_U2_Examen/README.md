@@ -7,14 +7,14 @@ que hay entre ellos (dos espacios) no cambia, lo único que varía es la altura.
 
 Ejemplo 1:
 Introduzca la altura de los calcetines: 6
-
+*****
 ***      ***
 ***      ***
 ***      ***
 ***      ***
 ******  ******
 ******  ******
-
+*****
 
 Ejemplo 2:
 Introduzca la altura de los calcetines: 4
