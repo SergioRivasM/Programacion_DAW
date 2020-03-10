@@ -19,17 +19,18 @@ De los propietarios de los perros deberemos guardar a su vez los siguiente datos
 - Los apellidos.
 - El número de socio de la Sociedad Canina Mundial.
 - El país de origen.
-- La clase tiene que tener los siguientes metodos.
 
-Un método addDog() que recibe como parámetros la raza y un perro y que añadirá a la estructura de datos ese perro en la raza determinada o mostrará un mensaje de error en caso de que estemos intentando introducir en la raza un perro que no sea de dicha raza.
-El método disqualifyDog() que recibe como parámetro un perro y los elimina del concurso borrándolo de la estructura de datos que contienen los datos de los perros participantes organizados por razas. En caso de ese perro no esté escrito deberá mostrar el siguiente mensaje "Perro no inscrito".
-El método ownerDogs() que mostrará por pantalla todos los perros de un dueño determinado (sea de la raza que sean). Este método recibe como parámetro el número de socio de la Sociedad Canina y mostrará el mensaje "Este socio no tiene perros inscritos" en caso de que el socio no tenga ningún perro en este concurso.
-El método perrosporPeso() que mostrará la lista de perros de una raza, que se recibe como parámetro, ordenados por peso de manera decreciente.
-El método perrosporEdad() que mostrará la lista de perros de una raza, que se recibe como parámetro, ordenados por edad de manera decreciente.
+La clase tiene que tener los siguientes metodos:
+
+- Un método addDog() que recibe como parámetros la raza y un perro y que añadirá a la estructura de datos ese perro en la raza determinada o mostrará un mensaje de error en caso de que estemos intentando introducir en la raza un perro que no sea de dicha raza.
+- El método disqualifyDog() que recibe como parámetro un perro y los elimina del concurso borrándolo de la estructura de datos que contienen los datos de los perros participantes organizados por razas. En caso de ese perro no esté escrito deberá mostrar el siguiente mensaje "Perro no inscrito".
+- El método ownerDogs() que mostrará por pantalla todos los perros de un dueño determinado (sea de la raza que sean). Este método recibe como parámetro el número de socio de la Sociedad Canina y mostrará el mensaje "Este socio no tiene perros inscritos" en caso de que el socio no tenga ningún perro en este concurso.
+- El método perrosporPeso() que mostrará la lista de perros de una raza, que se recibe como parámetro, ordenados por peso de manera decreciente.
+- El método perrosporEdad() que mostrará la lista de perros de una raza, que se recibe como parámetro, ordenados por edad de manera decreciente.
 
 Como cuando hay un concurso las inscripciones de los mismos se realizan en varios días y para no perder todos los inscritos debemos también de tener dos métodos en la clase:
 
-cargarPerros() que leerá todos los perros desde el fichero binario "perros.dat" y los colocará en el conjunto de perros de su raza.
-guardarPerros() que escribirá todos los perros cargados en el fichero "perros.dat". Estos perros serán guardados de manera individual sin tener que estar, en esa escritura, organizados por raza.
+- cargarPerros() que leerá todos los perros desde el fichero binario "perros.dat" y los colocará en el conjunto de perros de su raza.
+- guardarPerros() que escribirá todos los perros cargados en el fichero "perros.dat". Estos perros serán guardados de manera individual sin tener que estar, en esa escritura, organizados por raza.
 
 Usar dicha clase y todos sus métodos en la la clase Main. Deberéis tener, al menos, 3 razas, 10 perros y 3 dueños (combinados de la manera que queráis).
