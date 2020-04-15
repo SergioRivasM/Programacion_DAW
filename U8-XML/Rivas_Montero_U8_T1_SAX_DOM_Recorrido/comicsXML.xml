@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalogo>
+   <!-- Este es el primer comic -->
+   <comic id="01">
+      <autor>Stan Lee</autor>
+      <titulo>Spider-Man</titulo>
+      <genero>Superhéroes</genero>
+      <precio>8.50</precio>
+      <fechapublicacion>09-09-2019</fechapublicacion>
+      <descripcion>El superhéroe arácnido siempre está dispuesto a ayudar a quién le necesite.</descripcion>
+   </comic>
+   <!-- Este es el segundo comic -->
+      <comic id="02">
+      <autor>Gene Colan</autor>
+      <titulo>Iron Man</titulo>
+      <genero>Superhéroes</genero>
+      <precio>37.95</precio>
+      <fechapublicacion>12-03-2020</fechapublicacion>
+      <descripcion>Ante el Senado de los Estados Unidos para divulgar los secretos de Empresas Stark.</descripcion>
+   </comic>
+   <!-- Este es el tercer comic -->
+      <comic id="03">
+      <autor>Jason Masters</autor>
+      <titulo>Capitán América</titulo>
+      <genero>Superhéroes</genero>
+      <precio>2.85</precio>
+      <fechapublicacion>06-02-2020</fechapublicacion>
+      <descripcion>El asesinato de un policía desencadena el caos en las calles de Nueva York.</descripcion>
+   </comic>
+   <!-- Este es el cuarto comic -->
+      <comic id="04">
+      <autor>Jack Kirby</autor>
+      <titulo>Thor</titulo>
+      <genero>Superhéroes</genero>
+      <precio>10.50</precio>
+      <fechapublicacion>07-11-2019</fechapublicacion>
+      <descripcion>Para acabar con la guerra, Thor hizo un sacrificio que le deja cambiado.</descripcion>
+   </comic>
+   <!-- Este es el quinto comic -->
+      <comic id="05">
+      <autor>Marco Checchetto</autor>
+      <titulo>Daredevil</titulo>
+      <genero>Superhéroes</genero>
+      <precio>4.75</precio>
+      <fechapublicacion>05-03-2020</fechapublicacion>
+      <descripcion>Matt Murdock se ve en la obligación de investigar a fondo la corrupción dentro de la policía de Nueva York.</descripcion>
+   </comic>
+</catalogo>
