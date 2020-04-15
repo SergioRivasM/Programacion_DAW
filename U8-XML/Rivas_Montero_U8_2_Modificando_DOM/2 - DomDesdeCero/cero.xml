@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <comic>
+        <titulo>Spider-Man</titulo>
+        <autor>Stan Lee</autor>
+        <genero>Superhéroes</genero>
+        <precio>3.75</precio>
+    </comic>
+    <comic>
+        <titulo>Iron Man</titulo>
+        <autor>Gene Colan</autor>
+        <genero>Superhéroes</genero>
+        <precio>2.6</precio>
+    </comic>
+    <comic>
+        <titulo>Capitán América</titulo>
+        <autor>Jason Masters</autor>
+        <genero>Superhéroes</genero>
+        <precio>5.3</precio>
+    </comic>
+    <comic>
+        <titulo>Thor</titulo>
+        <autor>Jack Kirby</autor>
+        <genero>Superhéroes</genero>
+        <precio>6.75</precio>
+    </comic>
+    <comic>
+        <titulo>Valquiria</titulo>
+        <autor>Jason Cafu</autor>
+        <genero>Superhéroes</genero>
+        <precio>2.8</precio>
+    </comic>
+    <comic>
+        <titulo>Doctor Extraño</titulo>
+        <autor>Javier Pina</autor>
+        <genero>Superhéroes</genero>
+        <precio>4.25</precio>
+    </comic>
+    <comic>
+        <titulo>Viuda Negra</titulo>
+        <autor>Armentaro</autor>
+        <genero>Superhéroes</genero>
+        <precio>8.5</precio>
+    </comic>
+    <comic>
+        <titulo>Pantera Negra</titulo>
+        <autor>Daniel Acuña</autor>
+        <genero>Superhéroes</genero>
+        <precio>7.1</precio>
+    </comic>
+    <comic>
+        <titulo>Ojo de Halcón</titulo>
+        <autor>Fraction</autor>
+        <genero>Superhéroes</genero>
+        <precio>9.2</precio>
+    </comic>
+    <comic>
+        <titulo>Daredevil</titulo>
+        <autor>Marco Checchetto</autor>
+        <genero>Superhéroes</genero>
+        <precio>2.9</precio>
+    </comic>
+</catalogo>
