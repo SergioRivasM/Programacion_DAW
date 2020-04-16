@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalogo>
+   <comic id="01">
+      <titulo>Spider-Man</titulo>
+      <autor>Stan Lee</autor>
+      <genero>Superhéroes</genero>
+      <precio>8.50</precio>
+   </comic>
+   <comic id="02">
+      <titulo>Iron Man</titulo>
+      <autor>Gene Colan</autor>
+      <genero>Superhéroes</genero>
+      <precio>37.95</precio>
+   </comic>
+   <comic id="03">
+      <titulo>Capitán América</titulo>
+      <autor>Jason Masters</autor>
+      <genero>Superhéroes</genero>
+      <precio>2.85</precio>
+   </comic>
+   <comic id="04">
+      <titulo>Thor</titulo>
+      <autor>Jack Kirby</autor>
+      <genero>Superhéroes</genero>
+      <precio>10.50</precio>
+   </comic>
+   <comic id="05">
+      <titulo>Daredevil</titulo>
+      <autor>Marco Checchetto</autor>
+      <genero>Superhéroes</genero>
+      <precio>4.75</precio>
+   </comic>
+</catalogo>
